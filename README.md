@@ -45,5 +45,5 @@ pip install imutils
 Create a "dataset" folder before running any of the Python files.
 
 ## Capturing user images
-Open the 01_headshots.py file and change the variable "name" to the name of the user. Create a folder under "datasets" with the same name.
-Run the 01_headshots.py file and press space to take a photo. Take about 10 photos of each user.
+Open the UserManager.py file and change the variable "name" to the name of the user. Create a folder under "datasets" with the same name.
+Run the UserManager.py file and press space to take a photo. Take about 10 photos of each user.
