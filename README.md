@@ -2,9 +2,8 @@
 Hudson K, Arjun W, Daniel M, and Rawsab S
 ## Requirements
 
------------------------------------------------------------
 See InitialiseDB for instructions on how to set up database
------------------------------------------------------------
+
 
 Install required libraries:
 ```
