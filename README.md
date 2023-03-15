@@ -2,8 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/45187177/214395225-df2ae1b8-75a9-4170-8828-cd1ff3026ab4.png" alt="SE101 Project Banner" width="1015"/>
 
-[![rpos_version](https://img.shields.io/badge/Raspberry%20Pi%20OS-5.15-red.svg)](https://github.com/apple/swift)
-[![python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://github.com/apple/swift)
+![rpos_version](https://img.shields.io/badge/Raspberry%20Pi%20OS-5.15-red.svg)
+![python](https://img.shields.io/badge/Python-3.11-blue.svg)
 
 👥 Hudson K, Arjun W, Daniel M, and Rawsab S
 
